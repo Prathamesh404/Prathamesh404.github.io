@@ -84,8 +84,6 @@ exclude:
   - README.md
   - CNAME
 
-<<<<<<< HEAD
 remote_theme: b2a3e8/jekyll-theme-console
-=======
-theme: jekyll-theme-merlot
->>>>>>> 2d0c5b2958dd0faf529425f5a5aed88c4b50bea8
+#theme: jekyll-theme-merlot
+
